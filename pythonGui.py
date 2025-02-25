@@ -35,7 +35,7 @@ def Calculate() :
         ResetAll()
         print(str(result)) 
         return result
-
+s
 
 def callback():
     print("hello")
