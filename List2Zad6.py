@@ -19,5 +19,5 @@ plt.xlabel("x - axis")
 plt.ylabel("y - axis")
 plt.legend()
 
-plt.grid(color="grey",linestyle="--",linewidth=0.5)
+#plt.grid(color="grey",linestyle="--",linewidth=0.5)
 plt.show()
